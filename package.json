@@ -9,7 +9,10 @@
     "lint": "eslint"
   },
   "dependencies": {
+    "citation-js": "^0.7.22",
+    "docx": "^9.6.1",
     "next": "16.1.6",
+    "pdf-lib": "^1.17.1",
     "react": "19.2.3",
     "react-dom": "19.2.3"
   },
